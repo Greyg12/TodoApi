@@ -72,3 +72,4 @@ C:\Users\greyg\Desktop\ToDoApi\TodoApi.PerformanceTests\obj\Debug\net8.0\refint\
 C:\Users\greyg\Desktop\ToDoApi\TodoApi.PerformanceTests\obj\Debug\net8.0\TodoApi.PerformanceTests.pdb
 C:\Users\greyg\Desktop\ToDoApi\TodoApi.PerformanceTests\obj\Debug\net8.0\TodoApi.PerformanceTests.genruntimeconfig.cache
 C:\Users\greyg\Desktop\ToDoApi\TodoApi.PerformanceTests\obj\Debug\net8.0\ref\TodoApi.PerformanceTests.dll
+C:\Users\greyg\Desktop\ToDoApi\TodoApi.PerformanceTests\obj\Debug\net8.0\TodoApi.PerformanceTests.sourcelink.json
