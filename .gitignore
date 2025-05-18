@@ -81,3 +81,6 @@ secrets.json
 # Temporary files
 *.tmp
 *.temp
+
+/reports/*_session_*/
+
